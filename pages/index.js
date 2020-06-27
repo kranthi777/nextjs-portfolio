@@ -1,5 +1,9 @@
-const indexPage = () => {
-  return <div>Home Page</div>
-}
+import Layout from "../components/Layout";
 
-export default indexPage;
+const Index = () => (
+  <Layout title="Home">
+    <p>Welcome to the home page</p>
+  </Layout>
+);
+
+export default Index;
