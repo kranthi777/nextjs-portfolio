@@ -1,0 +1,1 @@
+{"name":"nextjs-portfolio","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next -p 4000"},"keywords":[],"author":"","license":"ISC","dependencies":{"next":"^9.4.4","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"nextjs-portfolio@1.0.0"}
